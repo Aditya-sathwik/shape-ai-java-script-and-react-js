@@ -1,1 +1,1 @@
-# shape-ai-java-script-and-react-js
+# shape-ai_java-script and _react-js
